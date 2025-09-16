@@ -1,0 +1,93 @@
+/*General Style */
+.root{
+	-fx-font-family: "Arial";	
+	
+}
+
+/*MAIN LAYOUT */
+/*Background */
+#mainWindows {
+  	-fx-background-image: url("background-image.jpg"); 
+}
+
+
+/*We define general rules and after we specify */
+.label {
+	
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333; 
+    -fx-background-color: #FFD700; 
+    -fx-border-color: #FFA500; 
+    -fx-border-radius: 10px;
+    -fx-background-radius:10px;
+    -fx-padding: 10px 15px;
+
+}
+
+#mainWindows #centerMenu .label
+{
+	-fx-font-size:24px;
+}
+
+
+.button {
+    -fx-background-color: #0056B3; 
+    -fx-text-fill: #FFFFFF; 
+    -fx-font-size: 14px;
+    -fx-border-color: #003366; 
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px 10px;
+}
+
+#btnClear {
+	-fx-font-size: 24px;
+	-fx-background-color: #FF0000;
+}
+
+#btnClear:hover{
+	-fx-background-color: #CC0000;
+	-fx-text-fill: #FFEEEE;
+	-fx-border-color: #990000;
+}
+.button:hover {
+    -fx-background-color: #004080; 
+}
+
+.text-field {
+    -fx-background-color: #FFFFFF; 
+    -fx-border-color: #003366; 
+    -fx-text-fill: #333333; 
+}
+
+
+
+/*CHECK GRADES LAYOUT */
+
+#checkWindows {
+	-fx-background-color: #A9C488;
+	
+}
+
+#checkWindows .label{
+	-fx-font-size: 9px;
+}
+
+#checkWindows .button{
+	
+	-fx-font-size: 14px;
+}
+
+#moduleTitle {
+	-fx-font-size: 15px !important;
+}	
+#cancelButton {
+	-fx-background-color:#FFFFFF;  
+    -fx-text-fill: #0056B3;
+    -fx-padding: 5px 5px;
+}
+#cancelButton:hover{
+	-fx-background-color:#E0E0E0;
+	-fx-text-fill:#003366;
+}
