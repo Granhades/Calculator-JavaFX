@@ -1,2 +1,20 @@
-# Calculator-JavaFX
-JavaFX Grade Calculator – Interactive GUI app that lets users enter grades and weights dynamically, then calculates weighted averages in real time. Features clean design, input validation, and modular reusable code for easy scalability.
+✨ Features
+
+🔢 Dynamic Input Fields – Add as many grades and weights as needed
+🧮 Automatic Calculation – Computes weighted average instantly
+🧱 Modular Design – Clean, reusable methods for future scalability
+✅ Input Validation – Handles invalid input gracefully
+🎨 Responsive Layout – Built with VBox/HBox for a structured, modern UI
+
+🛠️ Tech Stack
+Language: Java
+Framework: JavaFX
+IDE: Eclipse
+
+Version Control: Git & GitHub
+
+🚀 Getting Started
+Prerequisites
+Java 17+ installed
+JavaFX SDK (configured in your IDE or pom.xml if using Maven)
+
