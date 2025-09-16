@@ -1,10 +1,10 @@
-✨ Features
+✨ Features<br><br>
 
-🔢 Dynamic Input Fields – Add as many grades and weights as needed
-🧮 Automatic Calculation – Computes weighted average instantly
-🧱 Modular Design – Clean, reusable methods for future scalability
-✅ Input Validation – Handles invalid input gracefully
-🎨 Responsive Layout – Built with VBox/HBox for a structured, modern UI
+🔢 Dynamic Input Fields – Add as many grades and weights as needed <br>
+🧮 Automatic Calculation – Computes weighted average instantly<br>
+🧱 Modular Design – Clean, reusable methods for future scalability<br>
+✅ Input Validation – Handles invalid input gracefully<br>
+🎨 Responsive Layout – Built with VBox/HBox for a structured, modern UI<br>
 
 <img width="512" height="411" alt="image" src="https://github.com/user-attachments/assets/c889a8d4-6a8e-49f0-9f49-37921e631e13" />
 
